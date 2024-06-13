@@ -9,9 +9,9 @@ DIFF
     git diff "file.txt"
 
 MERGE
-    git branch yogu 
-    git checkout yogu
-    git push origin yogu  //in github
+    git branch sush
+    git checkout sush
+    git push origin sush  //in github
     git merge main 
         o/p Already up to date
 
