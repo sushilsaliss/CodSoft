@@ -1,8 +1,8 @@
 DIFF 
     create a folder(repo) and file  
 
-    git branch yogu
-    git checkout yogu 
+    git branch sush
+    git checkout sush0 
     ls 
     vi file.txt(and the additional)
     git checkout main 
