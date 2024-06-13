@@ -20,10 +20,32 @@ CLONE
     git clone LINK_NAME
 
 PUSH 
+    add&&commit
     git push origin main 
     git push LINK_NAME
+
 
 PULL 
     git pull origin main
     git pull LINK_NAME
+
+LOG // pre. changes 
+    1.clone
+    2.cd repo_n0ame
+    3.git log
+LOG | LESS
+    git log less
+
+
+ADD && COMMIT
+    1.clone
+    2.cd repo_name
+    3.create new file
+    4.git add "file_name(extention)"
+    5.git commit
+
+BRANCH
+    git branch branch_name
+    git checkout new_branch_name
+    git branch
 
