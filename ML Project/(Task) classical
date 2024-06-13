@@ -1,0 +1,29 @@
+DIFF 
+    create a folder(repo) and file  
+
+    git branch yogu
+    git checkout yogu 
+    ls 
+    vi file.txt(and the additional)
+    git checkout main 
+    git diff "file.txt"
+
+MERGE
+    git branch yogu 
+    git checkout yogu
+    git push origin yogu  //in github
+    git merge main 
+        o/p Already up to date
+
+CLONE 
+    git clone origin main 
+    git clone LINK_NAME
+
+PUSH 
+    git push origin main 
+    git push LINK_NAME
+
+PULL 
+    git pull origin main
+    git pull LINK_NAME
+
